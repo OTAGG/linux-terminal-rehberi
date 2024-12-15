@@ -43,7 +43,6 @@ chmod -R 755 /var/www/html
 # Paylaşılan proje dizini
 mkdir /proje
 chown :developers /proje
-chmod 2775 /proje      # SGID ile birlikte
 ```
 
 ### Özel Dosyalar

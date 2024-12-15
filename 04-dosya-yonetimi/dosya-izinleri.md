@@ -59,8 +59,7 @@ chmod 777 dosya        # rwxrwxrwx (dikkatli kullanın!)
 
 1. En az yeterli izinleri verin
 2. Sistem dosyalarının izinlerini değiştirirken dikkatli olun
-3. Özel izinleri (SUID, SGID) dikkatli kullanın
-4. İzin değişikliklerini test edin
+3. İzin değişikliklerini test edin
 
 ------   
 <br>

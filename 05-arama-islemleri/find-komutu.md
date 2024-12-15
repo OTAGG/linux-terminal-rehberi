@@ -81,8 +81,6 @@ find . -perm /a=x
 # 644 izinli dosyalar
 find . -perm 644
 
-# SUID biti olan dosyalar
-find . -perm -4000
 ```
 
 ### 3. Mantıksal Operatörler
