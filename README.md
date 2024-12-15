@@ -63,6 +63,12 @@ Bu eğitim serisi, Linux işletim sistemi ve terminal kullanımı konusunda kaps
 ## 🛠️ Pratik Yapma
 Her bölümün sonunda pratik örnekler ve alıştırmalar bulunmaktadır.
 
+📚 Kaynaklar
+- [ubuntu command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+- [Linux Command](https://linuxcommand.org)
+- [Claude.ai](https://claude.ai)
+
+
 ## 🤝 Katkıda Bulunma
 1. Bu repository'yi fork edin
 2. Yeni bir branch oluşturun
