@@ -53,6 +53,13 @@ Bu eğitim serisi, Linux işletim sistemi ve terminal kullanımı konusunda kaps
 - Uzak sunucu bağlantısı
 - Güvenli dosya transferi
 
+### [9. Sistem Monitörü ve Servisler](./09-monitoring/README.md)
+- Sistem Monitör Araçları
+- Servis Yönetimi
+- Log ve Süreç İzleme
+- Kaynak İzleme
+
+
 ## 🛠️ Pratik Yapma
 Her bölümün sonunda pratik örnekler ve alıştırmalar bulunmaktadır.
 
