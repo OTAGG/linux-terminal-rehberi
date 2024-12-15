@@ -24,31 +24,31 @@ Bu eğitim serisi, Linux işletim sistemi ve terminal kullanımı konusunda kaps
 - Dosya işlemleri
 - Yardım alma
 
-### [3. Kullanici ve Grup Yönetimi](./03-kullanıcı-ve-grup-yönetimi/)
+### [3. Kullanici ve Grup Yönetimi](./03-kullanıcı-ve-grup-yönetimi/README.md)
 - Kullanıcı ve grup yönetimi
 - Root ve Sudo Yönetimi
 
-### [4. Dosya Yönetimi](./04-dosya-yonetimi/)
+### [4. Dosya Yönetimi](./04-dosya-yonetimi/README.md)
 - Dosya izinleri
 - Dosya sahipliği
 - Sembolik linkler
 
-### [5. Arama İşlemleri](./05-arama/)
+### [5. Arama İşlemleri](./05-arama-islemleri/README.md)
 - find komutu
 - grep kullanımı
 - Düzenli ifadeler
 
-### [6. Shell Scripting](./06-shell-scripting/)
+### [6. Shell Scripting](./06-shell-scripting/README.md)
 - Temel script yazımı
 - Değişkenler ve döngüler
 - Koşul ifadeleri
 
-### [7. Paket Yönetimi](./07-paket-yonetimi/)
+### [7. Paket Yönetimi](./07-paket-yonetimi/README.md)
 - APT kullanımı
 - Paket kurulumu
 - Sistem güncelleme
 
-### [8. SSH ve Uzak Bağlantı](./08-ssh/)
+### [8. SSH ve Uzak Bağlantı](./08-ssh/README.md)
 - SSH kurulumu
 - Uzak sunucu bağlantısı
 - Güvenli dosya transferi
