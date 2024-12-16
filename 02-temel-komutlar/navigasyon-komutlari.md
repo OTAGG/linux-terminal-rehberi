@@ -82,14 +82,6 @@ whereis bash          # Bash ile ilgili tüm dosyaları göster
 whereis python        # Python ile ilgili dosyaları göster
 ```
 
-## locate
-Dosya ve dizinleri veritabanı üzerinden hızlıca bulur.
-
-```bash
-# Temel Kullanım
-locate dosya.txt      # dosya.txt dosyasını ara
-locate -i DOSYA.txt   # Büyük/küçük harf duyarsız arama
-```
 
 ## Gezinme İpuçları
 
