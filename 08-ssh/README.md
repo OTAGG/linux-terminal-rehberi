@@ -13,13 +13,15 @@ SSH, güvenli uzaktan bağlantı ve dosya transferi sağlayan bir protokoldür. 
 
 ## SSH Nedir?
 
-SSH (Secure Shell), ağ üzerinden güvenli iletişim sağlayan bir protokoldür. Başlıca özellikleri:
+![ssh](ssh.png)
+ SSH (Secure Shell), ağ üzerinden güvenli iletişim sağlayan bir protokoldür. Başlıca özellikleri:
 
 - Şifrelenmiş bağlantı
 - Güvenli kimlik doğrulama
 - Dosya transferi imkanı
 - Port yönlendirme
 - X11 forwarding desteği
+
 
 ## SSH Bağlantısı
 
