@@ -38,7 +38,7 @@ Bu eğitim serisi, Linux işletim sistemi ve terminal kullanımı konusunda kaps
 - grep kullanımı
 - Düzenli ifadeler
 
-### [6. Shell Scripting](./06-shell-scripting/README.md)
+### [6. Shell Scripting](./06-shell-script/README.md)
 - Temel script yazımı
 - Değişkenler ve döngüler
 - Koşul ifadeleri
